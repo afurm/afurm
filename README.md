@@ -1,7 +1,7 @@
 ## Hi there, I'm Andrii Furmanets! 👋
 
 [![Website](https://img.shields.io/badge/Website-andriifurmanets.com-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.andriifurmanets.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndriiFurmanets-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriifurmanets/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndriiFurmanets-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/andriifurmanets/](https://www.linkedin.com/in/andrii-furmanets-1a5b6452/)](https://www.linkedin.com/in/andrii-furmanets-1a5b6452/))
 [![GitHub](https://img.shields.io/badge/GitHub-AndriiFurmanets-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndriiFurmanets)
 
 ### 🚀 About Me
