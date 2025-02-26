@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/andriifurmanets/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrii-furmanets-1a5b6452/)
 - 🌐 [Personal Website](https://www.andriifurmanets.com/)
 - 🐦 [Twitter](https://twitter.com/furmanets)
 
