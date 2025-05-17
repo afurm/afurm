@@ -13,7 +13,7 @@
 - 🛠 Building scalable fintech, Web3 & SaaS products  
 - 👨‍💻 Previously worked with **NEAR Protocol**, **Chime**, **Intellias**, and more
 - 🌱 Passionate about **clean code**, **typed systems**, and **AI-powered workflows**
-- 🧠 Currently working on [**FolioFlux**](https://www.andriifurmanets.com/#folioflux) – an AI-powered crypto portfolio tracker
+- 🧠 Currently working on [**FolioFlux**](https://www.folioflux.com) – an AI-powered crypto portfolio tracker
 - 👨‍👩‍👦 Dad to a curious 7-year-old & advocate of lifelong learning
 
 ---
