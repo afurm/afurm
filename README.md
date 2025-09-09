@@ -14,7 +14,6 @@ I'm a **Senior Full-Stack Developer** with 10+ years of experience building scal
 - 📝 I regularly write about [software engineering, AI development, and scaling applications](https://andriifurmanets.com/blogs)
 - 💬 Ask me about **fintech solutions**, **Web3 development**, **scalable architectures**, and **startup MVP development**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/andrii-furmanets) | [Website](https://andriifurmanets.com)
-- ⚡ Fun fact: I became a father in 2017 - life's greatest achievement! 👶
 
 ## 🛠️ Tech Stack
 
