@@ -1,6 +1,6 @@
 # Andrii Furmanets
 
-Full-Stack AI Product Engineer (10+ yrs).  
+AI Product Engineer (10+ yrs).  
 I build and ship reliable web products: **Next.js/TypeScript + Ruby on Rails**.
 
 Currently: **FolioFlux** — AI crypto portfolio tracking.  
