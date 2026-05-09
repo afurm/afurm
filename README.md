@@ -10,7 +10,7 @@ I work across product interfaces, backend systems, and developer tooling, with a
 
 ## Product Proof
 
-[Draftmora](https://github.com/afurm/draftmora) is the clearest current product proof here: a local-first task board with chat, SQLite persistence, a packaged npm CLI, release history, and contributor-ready project docs.
+[Draftmora](https://github.com/afurm/draftmora) is my current flagship product, combining a local-first task board, chat, SQLite persistence, and a packaged npm CLI into a contributor-ready open-source app.
 
 ## Selected Projects
 
