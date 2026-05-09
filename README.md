@@ -8,9 +8,13 @@ I work across product interfaces, backend systems, and developer tooling, with a
 - Comfortable moving across frontend, Rails APIs, data workflows, and production UX details.
 - Active in open-source contribution work across Ruby/Rails and modern TypeScript ecosystems.
 
+## Product Proof
+
+[Draftmora](https://github.com/afurm/draftmora) is the clearest current product proof here: a local-first task board with chat, SQLite persistence, a packaged npm CLI, release history, and contributor-ready project docs.
+
 ## Selected Projects
 
-- [Draftmora](https://github.com/afurm/draftmora) - local-first agent task board with chat, SQLite storage, and a packaged npm CLI.
+- [Draftmora](https://github.com/afurm/draftmora) - shipped product repo for local-first task management and structured delivery workflows.
 - FolioFlux - crypto portfolio tracking product work across market data, portfolio UX, and growth content.
 - [Personal site](https://andriifurmanets.com) - freelance engineering profile, selected work, and writing.
 
