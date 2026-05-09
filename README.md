@@ -1,7 +1,30 @@
 # Andrii Furmanets
 
-Product Engineer (10+ yrs).  
-I build and ship reliable web products: **Next.js/TypeScript + Ruby on Rails**.
+Senior full-stack engineer shipping product work with React, Next.js, TypeScript, and Ruby on Rails.
 
-Currently: **FolioFlux** — AI crypto portfolio tracking.  
-Links: https://andriifurmanets.com • https://linkedin.com/in/andrii-furmanets
+I work across product interfaces, backend systems, and developer tooling, with a bias for practical delivery, clean architecture, and maintainable code.
+
+- 10+ years building fintech, SaaS, Web3, and developer-facing products.
+- Comfortable moving across frontend, Rails APIs, data workflows, and production UX details.
+- Active in open-source contribution work across Ruby/Rails and modern TypeScript ecosystems.
+
+## Selected Projects
+
+- [Draftmora](https://github.com/afurm/draftmora) - local-first agent task board with chat, SQLite storage, and a packaged npm CLI.
+- FolioFlux - crypto portfolio tracking product work across market data, portfolio UX, and growth content.
+- [Personal site](https://andriifurmanets.com) - freelance engineering profile, selected work, and writing.
+
+## Open Source
+
+- Rails - Action Mailbox and framework-level fixes with focused regression coverage.
+- Ruby / Rubygems - runtime and tooling contribution work around small, reviewable fixes.
+- OpenClaw - reliability and security-oriented fixes with real behavior proof.
+- Next.js / TypeScript ecosystem - targeted framework and type-system contribution work.
+
+## Stack
+
+React, Next.js, TypeScript, Ruby on Rails, Node.js, PostgreSQL, SQLite, Vite, Fastify.
+
+## Contact
+
+If you need senior full-stack help for product work, launches, rebuilds, or delivery support, reach me through [andriifurmanets.com](https://andriifurmanets.com) or [LinkedIn](https://linkedin.com/in/andrii-furmanets).
