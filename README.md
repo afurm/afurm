@@ -27,7 +27,7 @@ I work across product interfaces, backend systems, and developer tooling, with a
 
 ## Stack
 
-React, Next.js, TypeScript, Ruby on Rails, Node.js, PostgreSQL, SQLite, Vite, Fastify.
+React, Next.js, TypeScript, Ruby on Rails, Node.js, PostgreSQL, Vite, Fastify.
 
 ## Contact
 
