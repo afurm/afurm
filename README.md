@@ -1,34 +1,50 @@
 # Andrii Furmanets
 
-Senior full-stack engineer shipping product work with React, Next.js, TypeScript, and Ruby on Rails.
+Senior full-stack product engineer turning complex product work into clear, dependable releases.
 
-I work across product interfaces, backend systems, and developer tooling, with a bias for practical delivery, clean architecture, and maintainable code.
+I work directly across product UX, frontend systems, Rails APIs, data workflows, testing, and production delivery. My focus is the difficult space where user experience, application logic, integrations, and release risk meet.
 
-- 10+ years building fintech, SaaS, Web3, and developer-facing products.
-- Comfortable moving across frontend, Rails APIs, data workflows, and production UX details.
-- Active in open-source contribution work across Ruby/Rails and modern TypeScript ecosystems.
+**10+ years shipping products** · **44+ merged public PRs** · **Remote worldwide from Lviv, Ukraine**
 
-## Product Proof
+[Portfolio](https://www.andriifurmanets.com/) · [Selected work](https://www.andriifurmanets.com/#work) · [Engineering notes](https://www.andriifurmanets.com/blogs) · [Book a 30-minute intro](https://www.andriifurmanets.com/book)
 
-[Draftmora](https://github.com/afurm/draftmora) is my current flagship product, combining a local-first task board, chat, SQLite persistence, and a packaged npm CLI into a contributor-ready open-source app.
+## Selected products
 
-## Selected Projects
+### [FolioFlux](https://www.folioflux.com/)
 
-- [Draftmora](https://github.com/afurm/draftmora) - shipped product repo for local-first task management and structured delivery workflows.
-- FolioFlux - crypto portfolio tracking product work across market data, portfolio UX, and growth content.
-- [Personal site](https://andriifurmanets.com) - freelance engineering profile, selected work, and writing.
+A live wallet-first crypto portfolio product for importing activity, reviewing holdings and transactions, exploring analytics, and preparing tax-ready exports.
 
-## Open Source
+Next.js · TypeScript · Ruby on Rails · GraphQL · Web3
 
-- Rails - Action Mailbox and framework-level fixes with focused regression coverage.
-- Ruby / Rubygems - runtime and tooling contribution work around small, reviewable fixes.
-- OpenClaw - reliability and security-oriented fixes with real behavior proof.
-- Next.js / TypeScript ecosystem - targeted framework and type-system contribution work.
+### [mono-ledger-sync](https://github.com/afurm/mono-ledger-sync)
 
-## Stack
+A local-first financial workspace for Monobank sync, transaction review, reports, budgets, backups, and deterministic exports. Published as a documented, tested npm package.
 
-React, Next.js, TypeScript, Ruby on Rails, Node.js, PostgreSQL, Vite, Fastify.
+TypeScript · Fastify · SQLite · Playwright · [npm](https://www.npmjs.com/package/mono-ledger-sync)
+
+### [Draftmora](https://github.com/afurm/draftmora)
+
+An approval-first AI task board that turns messy notes into structured work through agent proposals, explicit human decisions, and durable local history.
+
+React · TypeScript · Fastify · SQLite · [npm](https://www.npmjs.com/package/draftmora)
+
+## Open-source proof
+
+- [Ruby](https://github.com/search?q=org%3Aruby+is%3Apr+author%3Aafurm+is%3Amerged&type=pullrequests) — public organization member with 27+ merged contributions across Ruby, RubyGems, and ruby-lang.org.
+- [Ruby on Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — 12+ merged fixes covering Action Mailbox, host validation, SQLite, and framework edge cases.
+- [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — 5+ merged contributions around security boundaries, webhook integrity, routing, and agent safeguards.
+
+## How I work
+
+- Own the path from product interface and application logic through testing and release.
+- Modernize fragile systems in reviewable slices while the roadmap keeps moving.
+- Build production AI workflows with explicit approvals, evaluation, fallbacks, and observability.
+- Leave maintainable code, clear context, and an easier next release.
+
+## Core toolkit
+
+React, Next.js, TypeScript, Ruby on Rails, GraphQL, Node.js, Fastify, SQLite, MySQL, PostgreSQL, Playwright, and production AI systems.
 
 ## Contact
 
-If you need senior full-stack help for product work, launches, rebuilds, or delivery support, reach me through [andriifurmanets.com](https://andriifurmanets.com) or [LinkedIn](https://linkedin.com/in/andrii-furmanets).
+Have a product bottleneck or a high-risk delivery scope? [Book a 30-minute intro](https://www.andriifurmanets.com/book) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-furmanets-1a5b6452/).
