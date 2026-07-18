@@ -4,7 +4,7 @@ Senior full-stack product engineer turning complex product work into clear, depe
 
 I work directly across product UX, frontend systems, Rails APIs, data workflows, testing, and production delivery. My focus is the difficult space where user experience, application logic, integrations, and release risk meet.
 
-**10+ years shipping products** · **44+ merged public PRs** · **Remote worldwide from Lviv, Ukraine**
+**10+ years shipping products** · **Open-source contributor** · **Remote worldwide from Lviv, Ukraine**
 
 [Portfolio](https://www.andriifurmanets.com/) · [Selected work](https://www.andriifurmanets.com/#work) · [Engineering notes](https://www.andriifurmanets.com/blogs) · [Book a 30-minute intro](https://www.andriifurmanets.com/book)
 
@@ -30,9 +30,9 @@ React · TypeScript · Fastify · SQLite · [npm](https://www.npmjs.com/package/
 
 ## Open-source proof
 
-- [Ruby](https://github.com/search?q=org%3Aruby+is%3Apr+author%3Aafurm+is%3Amerged&type=pullrequests) — public organization member with 27+ merged contributions across Ruby, RubyGems, and ruby-lang.org.
-- [Ruby on Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — 12+ merged fixes covering Action Mailbox, host validation, SQLite, and framework edge cases.
-- [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — 5+ merged contributions around security boundaries, webhook integrity, routing, and agent safeguards.
+- [Ruby](https://github.com/search?q=org%3Aruby+is%3Apr+author%3Aafurm+is%3Amerged&type=pullrequests) — public organization member contributing across Ruby, RubyGems, and ruby-lang.org.
+- [Ruby on Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — merged fixes covering Action Mailbox, host validation, SQLite, and framework edge cases.
+- [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — merged contributions around security boundaries, webhook integrity, routing, and agent safeguards.
 
 ## How I work
 
