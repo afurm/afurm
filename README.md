@@ -1,50 +1,38 @@
 # Andrii Furmanets
 
-Senior full-stack product engineer turning complex product work into clear, dependable releases.
+Senior full-stack engineer in Lviv, Ukraine. Rails since 2012, React/Next.js/TypeScript since; still ships both sides. Founder of [FolioFlux](https://folioflux.com). Remote worldwide.
 
-I work directly across product UX, frontend systems, Rails APIs, data workflows, testing, and production delivery. My focus is the difficult space where user experience, application logic, integrations, and release risk meet.
+## What I build now
 
-**10+ years shipping products** · **Open-source contributor** · **Remote worldwide from Lviv, Ukraine**
+- **[FolioFlux](https://folioflux.com)** — wallet-first crypto portfolio tracker (Next.js + Rails 8 API). Sole engineer since 2024.
+- **[rails-agent-kit](https://github.com/afurm/rails-agent-kit)** — Ruby gem: MCP server + Cursor skills so coding agents get ground truth (schema, routes) for a Rails 8 app.
+- **[Draftmora](https://github.com/afurm/draftmora)** — local-first open-source task board + chat + npm CLI; agent proposals with explicit human approval.
+- **[mono-ledger-sync](https://github.com/afurm/mono-ledger-sync)** — local-first Monobank ledger (TypeScript, SQLite, npm).
 
-[Portfolio](https://www.andriifurmanets.com/) · [Selected work](https://www.andriifurmanets.com/#work) · [Engineering notes](https://www.andriifurmanets.com/blogs) · [Book a 30-minute intro](https://www.andriifurmanets.com/book)
+Also: production AI workflows (Cursor, n8n, Make); a free Calendly-style booking flow (Google Calendar + Telegram); a minimal SaaS in launch.
 
-## Selected products
+## Open-source (selected merges)
 
-### [FolioFlux](https://www.folioflux.com/)
+Active contributor across Ruby/Rails and ecosystem gems. Highlighted in [This Week in Rails (2 Oct 2026)](https://rubyonrails.org/2026/10/2/this-week-in-rails) for [`except_on` validation matching](https://github.com/rails/rails/pull/58876).
 
-A live wallet-first crypto portfolio product for importing activity, reviewing holdings and transactions, exploring analytics, and preparing tax-ready exports.
+| Project | PR |
+| --- | --- |
+| [rails/rails](https://github.com/rails/rails) | [Fix `except_on` error matching](https://github.com/rails/rails/pull/58876) · [Reject malformed hosts](https://github.com/rails/rails/pull/57503) · [Action Mailbox ingress hardening](https://github.com/rails/rails/pull/57495) |
+| [ruby/ruby](https://github.com/ruby/ruby) | [Lazy#zip array conversions](https://github.com/ruby/ruby/pull/19063) |
+| [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) | [Reject non-finite Floats in strict args](https://github.com/sidekiq/sidekiq/pull/7091) |
+| [varvet/pundit](https://github.com/varvet/pundit) | [PolicyFinder#param_key for Symbol records](https://github.com/varvet/pundit/pull/887) |
+| [lostisland/faraday](https://github.com/lostisland/faraday) | [Decode indexed nested arrays in order](https://github.com/lostisland/faraday/pull/1723) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [Strip auth cookies on cross-origin redirects](https://github.com/openclaw/openclaw/pull/20313) |
+| [rails/globalid](https://github.com/rails/globalid) | [Skip GIDs with mismatching model_id](https://github.com/rails/globalid/pull/217) |
 
-Next.js · TypeScript · Ruby on Rails · GraphQL · Web3
+More: [merged PRs on rails/rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) · [org:ruby](https://github.com/search?q=org%3Aruby+author%3Aafurm+is%3Apr+is%3Amerged&type=pullrequests) · [all external](https://github.com/search?q=author%3Aafurm+is%3Apr+is%3Amerged+-user%3Aafurm&type=pullrequests)
 
-### [mono-ledger-sync](https://github.com/afurm/mono-ledger-sync)
+## Stack
 
-A local-first financial workspace for Monobank sync, transaction review, reports, budgets, backups, and deterministic exports. Published as a documented, tested npm package.
+Ruby on Rails · React · Next.js · TypeScript · GraphQL · PostgreSQL/MySQL/SQLite · Node/Fastify · Playwright · MCP / agent tooling
 
-TypeScript · Fastify · SQLite · Playwright · [npm](https://www.npmjs.com/package/mono-ledger-sync)
+Fintech, SaaS, Web3, and developer-facing products — 10+ years in production.
 
-### [Draftmora](https://github.com/afurm/draftmora)
+## Elsewhere
 
-An approval-first AI task board that turns messy notes into structured work through agent proposals, explicit human decisions, and durable local history.
-
-React · TypeScript · Fastify · SQLite · [npm](https://www.npmjs.com/package/draftmora)
-
-## Open-source proof
-
-- [Ruby](https://github.com/search?q=org%3Aruby+is%3Apr+author%3Aafurm+is%3Amerged&type=pullrequests) — public organization member contributing across Ruby, RubyGems, and ruby-lang.org.
-- [Ruby on Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — merged fixes covering Action Mailbox, host validation, SQLite, and framework edge cases.
-- [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aafurm+is%3Amerged) — merged contributions around security boundaries, webhook integrity, routing, and agent safeguards.
-
-## How I work
-
-- Own the path from product interface and application logic through testing and release.
-- Modernize fragile systems in reviewable slices while the roadmap keeps moving.
-- Build production AI workflows with explicit approvals, evaluation, fallbacks, and observability.
-- Leave maintainable code, clear context, and an easier next release.
-
-## Core toolkit
-
-React, Next.js, TypeScript, Ruby on Rails, GraphQL, Node.js, Fastify, SQLite, MySQL, PostgreSQL, Playwright, and production AI systems.
-
-## Contact
-
-Have a product bottleneck or a high-risk delivery scope? [Book a 30-minute intro](https://www.andriifurmanets.com/book) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-furmanets-1a5b6452/).
+[andriifurmanets.com](https://www.andriifurmanets.com/) · [X @furmanets](https://x.com/furmanets) · Telegram [«Як вижити розробнику»](https://t.me/dev_survive)
