@@ -1,10 +1,10 @@
 # Andrii Furmanets
 
-Senior full-stack engineer in Lviv, Ukraine. Rails since 2012, React/Next.js/TypeScript since; still ships both sides. Founder of [FolioFlux](https://folioflux.com). Remote worldwide.
+Founder & CEO of [FolioFlux](https://folioflux.com), the AI finance workspace for freelancers, small teams and their accountants. Senior full-stack engineer in Lviv, Ukraine: Rails since 2012, React/Next.js/TypeScript since. Remote worldwide.
 
 ## What I build now
 
-- **[FolioFlux](https://folioflux.com)** — wallet-first crypto portfolio tracker (Next.js + Rails 8 API). Sole engineer since 2024.
+- **[FolioFlux](https://folioflux.com)**: AI finance workspace for freelancers, small teams and their accountants. Bank and card exports become a ledger you can verify, five agents handle the monthly close, subscriptions, runway, unusual charges and tax set-aside, and every change waits for your approval. Next.js + Rails 8 API. Free in early access.
 - **[rails-agent-kit](https://github.com/afurm/rails-agent-kit)** — Ruby gem: MCP server + Cursor skills so coding agents get ground truth (schema, routes) for a Rails 8 app.
 - **[Draftmora](https://github.com/afurm/draftmora)** — local-first open-source task board + chat + npm CLI; agent proposals with explicit human approval.
 - **[mono-ledger-sync](https://github.com/afurm/mono-ledger-sync)** — local-first Monobank ledger (TypeScript, SQLite, npm).
